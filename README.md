@@ -7,7 +7,7 @@
 git内にある実行ファイルを直接実行する。もしくは、  
 go言語の環境を整えた上でgoファイルをrunすることで実行できる。
  
-git clone https://github.com/hoge/~  
+git clone https://github.com/RASh131/parallel
 cd n_queen  
 go run n_queen.go  
 ------ or -----  
